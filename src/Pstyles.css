@@ -148,8 +148,14 @@ hr {
 }
 a {
     text-decoration: none;
-    color: antiquewhite;
+    color:#a9a9a9 ;
 }
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
 .hamburger  {
    display: none;
 }
